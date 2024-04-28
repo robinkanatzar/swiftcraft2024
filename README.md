@@ -1,2 +1,4 @@
-# swiftcraft2024
-Workshop materials for Swift Craft 2024
+# Crafting an Accessible User Experience
+Workshop at Swift Craft 2024
+
+## Setup
